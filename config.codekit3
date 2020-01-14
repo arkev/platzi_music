@@ -9,12 +9,12 @@
 	],
 "creatorBuild": "31934",
 "files": {
-	"/.gitignore": {
+	"/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/.gitignore",
+		"oAP": "/.gitattributes",
 		"oF": 0
 		},
 	"/babel.config.js": {
@@ -141,7 +141,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 600648949.20148695,
-	"displayValue": "platzi-music",
+	"displayValue": "platzi_music",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-pale",
 	"iconImageWasSetByUser": 0
